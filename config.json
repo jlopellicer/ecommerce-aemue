@@ -5,8 +5,9 @@
       "adobe-commerce-optimizer": true,
       "headers": {
         "cs": {
-          "ac-view-id": "fd9c73ec-f061-44cd-b390-91106545a8b7",
-          "ac-price-book-id": "west_coast_inc"
+          "ac-view-id": "eb03d0f0-cd5e-4f38-9e94-3f59cfb72097",
+          "ac-price-book-id": "west_coast_inc",
+          "ac-source-locale": "en-US"
         }
       },
       "analytics": {
@@ -16,7 +17,7 @@
         "base-currency-code": "USD",
         "store-view-currency-code": "USD",
         "storefront-template": "Other",
-        "view-id": "fd9c73ec-f061-44cd-b390-91106545a8b7",
+        "view-id": "eb03d0f0-cd5e-4f38-9e94-3f59cfb72097",
         "locale": "en-US"
       }
     }
